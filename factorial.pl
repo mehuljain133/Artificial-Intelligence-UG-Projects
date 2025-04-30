@@ -1,4 +1,4 @@
-# Write a program in PROLOG to implement factorial (N, F) where F represents thefactorial of a number N.
+% Write a program in PROLOG to implement factorial (N, F) where F represents thefactorial of a number N.
 
 % ---------------------------------------------
 % factorial(N, F) :-
