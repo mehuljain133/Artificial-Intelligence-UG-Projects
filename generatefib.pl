@@ -1,4 +1,4 @@
-# Write a program in PROLOG to implement generate_fib(N,T) where T represents the Nth term of the fibonacci series
+% Write a program in PROLOG to implement generate_fib(N,T) where T represents the Nth term of the fibonacci series
 
 % ---------------------------------------------
 % generate_fib(N, T) :-
