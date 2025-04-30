@@ -1,4 +1,4 @@
-# Write a Prolog program to implement GCD of two numbers
+% Write a Prolog program to implement GCD of two numbers
 
 % -------------------------------------------
 % gcd(A, B, GCD) :-
